@@ -1,6 +1,6 @@
-# powerBI--business-anaysis-baseboard
+# PowerBI Business Anaysis Daseboard
 
-# Final Project Link in google Drive
+#Final Project Link in google Drive
 Drive Link : (https://drive.google.com/file/d/1OfradUMlU_7pedI7xQF5V6dJMTDWDNpj/view?usp=sharing)
 
 #Project Overview
