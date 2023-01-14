@@ -1,6 +1,4 @@
 # powerBI--business-anaysis-baseboard
-# Business-Insight-360
-I worked on this project by following the Codebasics PowerBi Course
 
 #Project Overview
 
@@ -166,23 +164,41 @@ Executive View
 Support
 Overall Report
 
-Info Page
+#Info Page
 
+<p align="center">
+  <img src="https://github.com/pateljay7018/powerBI--business-anaysis-bashboard/blob/912a25349117473d309c0136f683701668ad25b8/screenshort/home.png" height="400">
+</p>
 
-Finance View
+#Finance View
 
+<p align="center">
+  <img src="https://github.com/pateljay7018/powerBI--business-anaysis-bashboard/blob/912a25349117473d309c0136f683701668ad25b8/screenshort/finance%20view.png" height="400">
+</p>
 
-Sales View
+#Sales View
 
+<p align="center">
+  <img src="https://github.com/pateljay7018/powerBI--business-anaysis-bashboard/blob/912a25349117473d309c0136f683701668ad25b8/screenshort/Sales%20View.png" height="400">
+</p>
 
-Marketing View
+#Marketing View
 
+<p align="center">
+  <img src="https://github.com/pateljay7018/powerBI--business-anaysis-bashboard/blob/912a25349117473d309c0136f683701668ad25b8/screenshort/Marketing%20view.png" height="400">
+</p>
 
-Supply chain View
+#Supply chain View
 
+<p align="center">
+  <img src="https://github.com/pateljay7018/powerBI--business-anaysis-bashboard/blob/912a25349117473d309c0136f683701668ad25b8/screenshort/supplu%20chain%20view.png" height="400">
+</p>
 
-Executive View
+#Executive View
 
+<p align="center">
+  <img src="https://github.com/pateljay7018/powerBI--business-anaysis-bashboard/blob/912a25349117473d309c0136f683701668ad25b8/screenshort/executive%20view.png" height="400">
+</p>
 
 #Project Outcome
 
