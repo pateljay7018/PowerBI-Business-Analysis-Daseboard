@@ -1,5 +1,8 @@
 # powerBI--business-anaysis-baseboard
 
+# Final Project Link in google Drive
+Drive Link : (https://drive.google.com/file/d/1OfradUMlU_7pedI7xQF5V6dJMTDWDNpj/view?usp=sharing)
+
 #Project Overview
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
